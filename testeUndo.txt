@@ -1,2 +1,4 @@
 simulando uma alteração no arquivo
 teste commit 1
+teste commit 2
+
